@@ -1,5 +1,5 @@
 // <define:__slib_info>
-var define_slib_info_default = { isBuild: true, name: "cs-inflect", description: "A lightweight JavaScript library for declension of Czech numerals and nouns based on numbers, supporting singular, paucal (2\u20134), and genitive plural forms. Perfect for formatting grammatically correct strings in Czech.", version: "0.0.7", author: { name: "Jan Randa", email: "jnranda@gmail.com", url: "https://www.linkedin.com/in/randajan/" }, env: "development", mode: "node", port: 4001, dir: { root: "C:\\dev\\lib\\cs-inflect", dist: "demo/dist" } };
+var define_slib_info_default = { isBuild: true, name: "cs-inflect", description: "A lightweight JavaScript library for declension of Czech numerals and nouns based on numbers, supporting singular, paucal (2\u20134), and genitive plural forms. Perfect for formatting grammatically correct strings in Czech.", version: "1.0.0", author: { name: "Jan Randa", email: "jnranda@gmail.com", url: "https://www.linkedin.com/in/randajan/" }, env: "development", mode: "node", port: 4001, dir: { root: "C:\\dev\\lib\\cs-inflect", dist: "demo/dist" } };
 
 // node_modules/chalk/source/vendor/ansi-styles/index.js
 var ANSI_BACKGROUND_OFFSET = 10;

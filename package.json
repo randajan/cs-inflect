@@ -6,7 +6,6 @@
   "main": "index.js",
   "type": "module",
   "license": "MIT",
-  "private": true,
   "dependencies": {
     "@randajan/simple-lib": "^2.3.5"
   },
