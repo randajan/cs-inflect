@@ -1,0 +1,31 @@
+{
+  "name": "cs-inflect",
+  "version": "0.0.7",
+  "description": "A lightweight JavaScript library for declension of Czech numerals and nouns based on numbers, supporting singular, paucal (2–4), and genitive plural forms. Perfect for formatting grammatically correct strings in Czech.",
+  "repository": "git@github.com:randajan/cs-inflect.git",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@randajan/simple-lib": "^2.3.5"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [],
+  "homepage": "https://github.com/randajan/cs-inflect",
+  "bugs": {
+    "url": "https://github.com/randajan/cs-inflect/issues"
+  },
+  "author": {
+    "name": "Jan Randa",
+    "email": "jnranda@gmail.com",
+    "url": "https://www.linkedin.com/in/randajan/"
+  },
+  "devDependencies": {
+    "assert": "^2.1.0"
+  }
+}
